@@ -1,0 +1,15 @@
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\bin\Debug\net6.0\CleanArchi_TP.exe
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\bin\Debug\net6.0\CleanArchi_TP.deps.json
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\bin\Debug\net6.0\CleanArchi_TP.runtimeconfig.json
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\bin\Debug\net6.0\CleanArchi_TP.dll
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\bin\Debug\net6.0\CleanArchi_TP.pdb
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\obj\Debug\net6.0\CleanArchi_TP.csproj.AssemblyReference.cache
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\obj\Debug\net6.0\CleanArchi_TP.GeneratedMSBuildEditorConfig.editorconfig
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\obj\Debug\net6.0\CleanArchi_TP.AssemblyInfoInputs.cache
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\obj\Debug\net6.0\CleanArchi_TP.AssemblyInfo.cs
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\obj\Debug\net6.0\CleanArchi_TP.csproj.CoreCompileInputs.cache
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\obj\Debug\net6.0\CleanArchi_TP.dll
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\obj\Debug\net6.0\refint\CleanArchi_TP.dll
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\obj\Debug\net6.0\CleanArchi_TP.pdb
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\obj\Debug\net6.0\CleanArchi_TP.genruntimeconfig.cache
+E:\RepoGit\CleanArchi_TP\CleanArchi_TP\obj\Debug\net6.0\ref\CleanArchi_TP.dll
